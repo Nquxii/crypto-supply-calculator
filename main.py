@@ -1,7 +1,7 @@
 import sys
 
 USAGE = '''
-Usage: python3 markets [options] ...
+Usage: python3 main.py [options] ...
 
   --h    help - print this screen
   --mccs divide market cap by circ. supply resulting in price
