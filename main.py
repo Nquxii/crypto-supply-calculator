@@ -3,10 +3,10 @@ import sys
 USAGE = '''
 Usage: python3 main.py [options] ...
 
-  --h    help - print this screen
-  --mccs divide market cap by circ. supply resulting in price
-  --prcs multiply price and circ. supply resulting in mktcap
-  --mcpr divide market cap by price resulting in circ. supply
+  [--h   ] help - print this screen
+  [--mccs] divide market cap by circ. supply resulting in price
+  [--prcs] multiply price and circ. supply resulting in mktcap
+  [--mcpr] divide market cap by price resulting in circ. supply
 
 '''
 
